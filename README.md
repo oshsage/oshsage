@@ -4,7 +4,8 @@
 
 
 </div>
-To be Data Analyst</n>
+To be Data Analyst
+
 <공부>  
 - Python 데이터 분석
 - SQL
