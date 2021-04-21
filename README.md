@@ -5,12 +5,19 @@
 
 </div>
 To be Data Analyst
+<공부>
+- Python 데이터 분석
+- SQL
+- Machine learning
 
-- Python, SQL, Machine learning, Deep learning
+<활동>
+- 빅데이터를 활용한 IoT 시스템 개발 (2020.07.10~2020.12.23)
+- 머신러닝야학 (2021.1.14)
+- 강의형 스터디 (2021.1 ~ 진행중)
+ - [CS Study](https://github.com/jisicTank/CS)
+ - [Skill Study](https://github.com/jisicTank/Skill)
+- 알고리즘 스터디 (2021.1 ~ 진행중)
 
-Interest
-
-- I am finding studying data. I want to get the various opertunity to experience thing about data.
 
 <div align=center>
 
