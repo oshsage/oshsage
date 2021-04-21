@@ -4,10 +4,9 @@
 
 
 </div>
-To be Date Scientist
+To be Data Analyst
 
-- Python, R, SQL,and Hadoop
-- 후회만 가득한 과거와 불안하기만 한 미래 때문에 지금을 망치지 마세요. 오늘을 살아가세요. 눈이 부시게
+- Python, SQL, Machine learning, Deep learning
 
 Interest
 
