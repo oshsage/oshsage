@@ -14,9 +14,9 @@ To be Data Analyst
 <활동>
 - 빅데이터를 활용한 IoT 시스템 개발 수료: [프로젝트 우수상](https://github.com/multicampus4/iot-smart-building)(2020.07.10~2020.12.23)
 - 머신러닝야학 수료(2021.1.14)
-- 강의형 스터디 (2021.1 ~ 진행중)
- - [CS Study](https://github.com/jisicTank/CS)
- - [Skill Study](https://github.com/jisicTank/Skill)
+* 강의형 스터디 (2021.1 ~ 진행중)
+* * [CS Study](https://github.com/jisicTank/CS)
+* * [Skill Study](https://github.com/jisicTank/Skill)
 - 알고리즘 스터디 (2021.1 ~ 진행중)
 
 
