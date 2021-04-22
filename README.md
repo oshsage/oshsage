@@ -20,6 +20,9 @@ To be Data Analyst
 - 알고리즘 스터디 (2021.1 ~ 진행중)
 
 
+<기타>
+- [에러노트](https://github.com/oshsage/TIL/tree/master/Error%20Note): 에러문이 뜰 때마다 원인과 해결방법을 기록하자.
+- [TIL](https://github.com/oshsage/TIL): 매일 매일 공부 공부
 <div align=center>
 
  
