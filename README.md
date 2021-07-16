@@ -7,18 +7,20 @@
 To be Data Analyst
 
 <공부>  
-- Python 데이터 분석
+- Python
 - SQL 
+- R
+- Data Analysis
 - Machine learning
 - Statistics
 
 <활동>
 - 빅데이터를 활용한 IoT 시스템 개발 수료: [프로젝트 우수상](https://github.com/multicampus4/iot-smart-building) (2020.07.10 ~ 2020.12.23)
 - 머신러닝야학 수료 (2021.1.14)
-* 강의형 스터디 (2021.1 ~ 진행중)
+* 강의형 스터디 (2021.1 ~ 2021.04.6)
   * [CS Study](https://github.com/jisicTank/CS)
   * [Skill Study](https://github.com/jisicTank/Skill)
-- 알고리즘 스터디 (2021.1 ~ 진행중)
+- 알고리즘 스터디 (2021.1 ~ 6.26)
 
 
 <기타>
