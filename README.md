@@ -16,14 +16,14 @@ To be Data Analyst/Data Scientist
 
 <활동>
 - 빅데이터를 활용한 IoT 시스템 개발 수료: [프로젝트 우수상](https://github.com/multicampus4/iot-smart-building) (2020.07.10 ~ 2020.12.23)
-- 머신러닝야학 수료 (2021.1.14)
+- [머신러닝야학 수료](https://ml.yah.ac/) (2021.1.14)
 * 강의형 스터디 (2021.1 ~ 2021.04.6)
   * [CS Study](https://github.com/jisicTank/CS)
   * [Skill Study](https://github.com/jisicTank/Skill)
 - [알고리즘 스터디](https://github.com/oshsage/TIL/tree/master/Coding%20Test/Study%20Group) (2021.1 ~ 6.26)
-- 세렝게티 올빼미 프로젝트 (2021.5.18 ~ 2021.8.26)
-- 비즈니스 인사이트 도출을 위한 데이터 분석 프로젝트 과정 (2021.5.24 ~ 11.18)
-- 삼성 소프트웨어 개발자 컨퍼런스: 데이터야 놀자 커뮤니티 참여 (2021.11.17~2021.11.18)
+- [세렝게티 올빼미 프로젝트](https://www.notion.so/serengetiowl/47166eee4bdf4c6f92c21a1ad5624edc) (2021.5.18 ~ 2021.8.26)
+- [비즈니스 인사이트 도출을 위한 데이터 분석 프로젝트 과정](https://github.com/oshsage/PJ_RealEstate) (2021.5.24 ~ 11.18)
+- [삼성 소프트웨어 개발자 컨퍼런스: 데이터야 놀자 커뮤니티 참여](https://www.soscon.net/community) (2021.11.17~2021.11.18)
 
 <기타>
 - [에러노트](https://github.com/oshsage/TIL/tree/master/Error%20Note): 에러문이 뜰 때마다 원인과 해결방법을 기록하자.
