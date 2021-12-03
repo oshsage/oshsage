@@ -4,7 +4,7 @@
 
 
 </div>
-To be Data Analyst
+To be Data Analyst/Data Scientist
 
 <공부>  
 - Python
@@ -20,7 +20,7 @@ To be Data Analyst
 * 강의형 스터디 (2021.1 ~ 2021.04.6)
   * [CS Study](https://github.com/jisicTank/CS)
   * [Skill Study](https://github.com/jisicTank/Skill)
-- 알고리즘 스터디 (2021.1 ~ 6.26)
+- [알고리즘 스터디](https://github.com/oshsage/TIL/tree/master/Coding%20Test/Study%20Group) (2021.1 ~ 6.26)
 - 세렝게티 올빼미 프로젝트 (2021.5.18 ~ 2021.8.26)
 - 비즈니스 인사이트 도출을 위한 데이터 분석 프로젝트 과정 (2021.5.24 ~ 11.18)
 - 삼성 소프트웨어 개발자 컨퍼런스: 데이터야 놀자 커뮤니티 참여 (2021.11.17~2021.11.18)
